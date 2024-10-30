@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_vegetables"
+        android:title="Vegetables" />
+    <item
+        android:id="@+id/menu_fruits"
+        android:title="Fruits" />
+    <item
+        android:id="@+id/menu_dry_fruits"
+        android:title="Dry Fruits" />
+</menu>
